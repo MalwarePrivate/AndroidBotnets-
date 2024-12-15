@@ -1,4 +1,4 @@
-# AndroidBotnets-
+# AndroidBotnets
 Private Channel from @AndroidBotnets
 
 Gain exclusive access to a private channel via @MalwarePrivateBot, where you will find a vast selection of resources focused on Android malware development, exploitation, and distribution.
